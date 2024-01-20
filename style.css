@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+}
+.img{
+    width: 40%;
+    height: 40%;
+    margin: 2px;
+    display: inline; 
+}
+
+
+.gallery{
+   width:80% ;
+   height:60% ;
+   display:inline block; 
+}
+.h1{
+    font-style: italic;
+    
+}
+.h1{
+    color: brown;
+}
+.nav{
+    background-color:wheat
+
+}
+.nav :hover{
+    background-color: blue;
+    color: blue;
+    padding: 3px;
+}
+.index{
+    
+}
+.contacts{
+    color: red;
+    
+}
+
